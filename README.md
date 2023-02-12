@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **An Auction Site**
 
-- 🌱 I’m currently learning **Sveltekit, GSAP, Prisma, PostgreSQL, GraphQL, PocketBase and Supabase**
+- 🌱 I’m currently learning **Remix, GSAP, Prisma, PostgreSQL, GraphQL, and Supabase**
 
 - 👯 I’m looking to collaborate on **React and Next.js Applications**
 
-- 🤝 I’m looking for help with **Sveltekit**
+- 🤝 I’m looking for help with **Remix Projects**
 
 - 👨‍💻 All of my projects are available at [https://shafinul-islam.netlify.app](https://shafinul-islam.netlify.app)
 
