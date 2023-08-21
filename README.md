@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **An Auction Site**
 
-- 🌱 I’m currently learning **Remix, GSAP, Prisma, PostgreSQL, GraphQL, and Supabase**
+- 🌱 I’m currently learning **Manual Testing, Framer Motion, Automation Testing, React Native and FastAPI
 
-- 👯 I’m looking to collaborate on **React and Next.js Applications**
+- 👯 I’m looking to collaborate on **React and MERN Stack Applications**
 
-- 🤝 I’m looking for help with **Remix Projects**
+- 🤝 I’m looking for help with **React Projects**
 
 - 👨‍💻 All of my projects are available at [https://shafinul-islam.netlify.app](https://shafinul-islam.netlify.app)
 
