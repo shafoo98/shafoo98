@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Manual Testing, Framer Motion, Automation Testing, React Native and FastAPI
 
-- 👯 I’m looking to collaborate on **React and MERN Stack Applications**
+- 👏 I’m looking to collaborate on **React and MERN Stack Applications**
 
 - 🤝 I’m looking for help with **React Projects**
 
