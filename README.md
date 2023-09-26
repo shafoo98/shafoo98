@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **An Auction Site**
 
-- 🌱 I’m currently learning **Manual Testing, Framer Motion, Automation Testing, React Native and FastAPI
+- 🌱 I’m currently learning **Manual Testing, Framer Motion, Automation Testing, and Next.js
 
 - 👏 I’m looking to collaborate on **React and MERN Stack Applications**
 
