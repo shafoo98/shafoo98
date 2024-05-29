@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafoo98" alt="shafoo98" /></a> </p>
 
-- 🔭 I’m currently working on **An Auction Site**
+- 🔭 I’m currently working as **Test Automation Engineer** at a renowned testing company
 
-- 🌱 I’m currently learning **Manual Testing, Framer Motion, Automation Testing, and Next.js
+- 🌱 I’m currently learning **Cucumber, Gherkin, Automated Software Testing Principles, Azure CI**
 
 - 👏 I’m looking to collaborate on **React and MERN Stack Applications**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shafinul-islam.netlify.app](https://shafinul-islam.netlify.app)
 
-- 💬 Ask me about **React, MongoDB, Node.js, Express**
+- 💬 Ask me about **React, MongoDB, Node.js, Express, Automation Testing, Javascript, WebDriverIO**
 
 - 📫 How to reach me **shafinul98@proton.me**
 
